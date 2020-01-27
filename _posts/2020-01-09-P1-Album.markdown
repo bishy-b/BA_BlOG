@@ -1,0 +1,9 @@
+---
+layout: post
+title: "P1 Album"
+date: 2020-01-09 19:28:00 +00:00
+categories: MPP film
+permalink: /:categories/:day/:month/:year/:title.html
+---
+
+For our first work that we are releasing publicly, I have compiled a selection of tracks from friend P1. I’ve taken them from the 1000+ archive of files that I have mentioned previously, as Felix (the artist) has given me the green light to do whatever I want with them. I am currently in the process of mastering them, using EQ, a compressor and a limiter. Out of sheer luck and coincidence, Yves found a pack of 50 blank CDs on the street, which we will use for this album as their origin story fits in perfectly with the ethos of this project. In keeping with the theme of reuse/recycle, we will be using empty tobacco pouches for the sleeves. I made a poster asking for them to be donated and put them up around the building where I live and soon has more than enough for the release.

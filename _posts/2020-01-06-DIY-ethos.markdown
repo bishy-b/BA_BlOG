@@ -1,0 +1,9 @@
+---
+layout: post
+title: "DIY ethos"
+date: 2020-01-06 19:28:00 +00:00
+categories: MPP film
+permalink: /:categories/:day/:month/:year/:title.html
+---
+
+I’ve come to realise that ‘DIY’ within the music scene has become a style of aesthetics and mixing procedures to make the music sound a certain way. I don’t really understand why artists are going out of their way to achieve an aesthetic that connotes a lack of time and effort! DIY is an method not a style. Therefore there is a limitless amount of ways a DIY project can sound (without necessarily letting the listener know the methodology underpinning it).

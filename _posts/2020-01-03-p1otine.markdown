@@ -1,0 +1,9 @@
+---
+layout: post
+title: "p1otine"
+date: 2020-01-03 19:28:00 +00:00
+categories: MPP film
+permalink: /:categories/:day/:month/:year/:title.html
+---
+
+Inspired by Latouche’s moral code of ‘8 R’s’, I have begun experimenting with the idea of recycling when approaching music production. For this, I have acquired a 1000+ file archive from one of my collaborators, made up of half finished tracks, stems and samples he has made over several years. I also have a similar archive, and so I have decided to experiment with a new collaborative method: creating new work solely using these two repositories. So far I am surprised by how enjoyable this has been, and how different and new sounding the final products are. 
