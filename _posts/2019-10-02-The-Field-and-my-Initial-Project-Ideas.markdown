@@ -17,4 +17,4 @@ For me, the link between the lack of new ideas within music, and the growing nec
 
 Since this revelation, I am treating The Field as a central case study for a similar Social Network based around music production that I am planning to create for my MPP, as a pragmatic response to Fisher’s lament. I will be taking inspiration from the organizational principles of The Field (working groups, regular meetings, membership contracts) and translating them into collaborative processes for our motley crew of musicians and artists. 
 
-INCLUDE KITCHEN FLYER AND FIELD ONE TOO
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/h7ma7XU" data-context="false"><a href="//imgur.com/a/h7ma7XU"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
