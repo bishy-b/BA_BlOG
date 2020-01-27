@@ -8,4 +8,7 @@ permalink: /:categories/:day/:month/:year/:title.html
 
 Inspired by Latouche’s moral code of ‘8 R’s’, I have begun experimenting with the idea of recycling when approaching music production. For this, I have acquired a 1000+ file archive from one of my collaborators, made up of half finished tracks, stems and samples he has made over several years. I also have a similar archive, and so I have decided to experiment with a new collaborative method: creating new work solely using these two repositories. So far I am surprised by how enjoyable this has been, and how different and new sounding the final products are. 
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/975332476%3Fsecret_token%3Ds-sKSlI&color=%23aee612&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/975332476%3Fsecret_token%3Ds-DXTQO&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
