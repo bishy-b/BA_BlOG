@@ -10,3 +10,5 @@ The mastering for the P1 album is finally complete! It took a while, and I’m s
 
 I have also made a few drafts of potential album art for the digital version of the release, which I have sent over to Felix and am awating feedback for.
 
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/hWf8o2S" data-context="false"><a href="//imgur.com/a/hWf8o2S"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
